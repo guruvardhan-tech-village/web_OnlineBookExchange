@@ -438,10 +438,10 @@ Special thanks to:
 
 ### 📊 Project Stats
 
-![GitHub stars](https://img.shields.io/github/stars/guruvardhan-tech-village/book-exchange-system?style=social)
-![GitHub forks](https://img.shields.io/github/forks/guruvardhan-tech-village/book-exchange-system?style=social)
-![GitHub issues](https://img.shields.io/github/issues/guruvardhan-tech-village/book-exchange-system)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/guruvardhan-tech-village/book-exchange-system)
+![GitHub stars](https://img.shields.io/github/stars/guruvardhan-tech-village/web_OnlineBookExchange?style=social)
+![GitHub forks](https://img.shields.io/github/forks/guruvardhan-tech-village/web_OnlineBookExchange?style=social)
+![GitHub issues](https://img.shields.io/github/issues/guruvardhan-tech-village/web_OnlineBookExchange)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/guruvardhan-tech-village/web_OnlineBookExchange)
 
 **Made with modern web technologies and best practices**
 
